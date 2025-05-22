@@ -1,5 +1,3 @@
-# analise-sentimentos-ia
-Anotações sobre a Language Studio Ia da AZure
 ## 🧠 Aula: Análise de Sentimentos com Language Studio - Azure AI
 
 Hoje aprendi a usar o **Language Studio** no **Azure AI** para fazer **análise de sentimentos** em textos.
@@ -17,4 +15,23 @@ Hoje aprendi a usar o **Language Studio** no **Azure AI** para fazer **análise 
    - As porcentagens (scores) de cada sentimento
 
 ### 💬 Exemplo de teste:
-**Texto**: "O hambúrguer estava
+**Texto**: "O hambúrguer estava ótimo, mas o atendimento foi lento."
+
+- Frase 1: Positivo
+- Frase 2: Negativo
+- Sentimento geral: Misto
+
+### 📌 Aplicações práticas:
+- Avaliações de clientes
+- Comentários em redes sociais
+- Feedbacks em formulários
+- Chatbots e SAC automatizado
+
+### 💡 O que achei interessante:
+- Fácil de usar e direto no navegador
+- Ajuda a entender rapidamente como as pessoas se sentem sobre um serviço
+- Pode ser usado junto com Power BI e automações
+
+### 🔜 Próximos passos:
+- Explorar integração com API
+- Testar análise em massa com vários comentários
